@@ -1,7 +1,13 @@
 #pragma once
 
 #include <JuceHeader.h>
-#include <ControlComponent.h>
+#include <DelayComponent.h>
+#include <InputComponent.h>
+#include <KillEQComponent.h>
+#include <MasterComponent.h>
+#include <ReverbComponent.h>
+#include <TrackThumbnailComponent.h>
+#include <TenBandComponent.h>
 
 //==============================================================================
 /*
@@ -25,11 +31,21 @@ private:
     // Your private member variables go here...
     int x, y;
 
-    // Child components
-    juce::FileBrowserComponent fileBrowser;
-    juce::MenuBarComponent menuBar;
-    ControlComponent controls;
+    //look and feel
 
+    // Child components
+    juce::MenuBarComponent menuBar;
+
+    juce::Rectangle<int> test;
+    juce::TextButton testButton;
+
+    DelayComponent delayComponent;
+    InputComponent inputComponent;
+    KillEQComponent killEQComponent;
+    MasterComponent masterComponent;
+    ReverbComponent reverbComponent;
+    TrackThumbnailComponent trackThumbnailComponent;
+    TenBandComponent tenBandComponent;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MainComponent)
 };

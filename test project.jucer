@@ -5,14 +5,38 @@
               defines="JUCE_DISPLAY_SPLASH_SCREEN=0">
   <MAINGROUP id="f3zt7G" name="test project">
     <GROUP id="{7E010FE3-735E-CDD1-8F0D-40FD78A2F7CB}" name="Source">
+      <FILE id="q4JOwk" name="TenBandComponent.cpp" compile="1" resource="0"
+            file="Source/TenBandComponent.cpp"/>
+      <FILE id="gy0m4d" name="TenBandComponent.h" compile="0" resource="0"
+            file="Source/TenBandComponent.h"/>
+      <FILE id="lR5GWu" name="DelayComponent.cpp" compile="1" resource="0"
+            file="Source/DelayComponent.cpp"/>
+      <FILE id="eqso1y" name="DelayComponent.h" compile="0" resource="0"
+            file="Source/DelayComponent.h"/>
+      <FILE id="uEE883" name="InputComponent.cpp" compile="1" resource="0"
+            file="Source/InputComponent.cpp"/>
+      <FILE id="MtCUpR" name="InputComponent.h" compile="0" resource="0"
+            file="Source/InputComponent.h"/>
+      <FILE id="VZfq5q" name="KillEQComponent.cpp" compile="1" resource="0"
+            file="Source/KillEQComponent.cpp"/>
+      <FILE id="grosTu" name="KillEQComponent.h" compile="0" resource="0"
+            file="Source/KillEQComponent.h"/>
+      <FILE id="LLhXJt" name="MasterComponent.cpp" compile="1" resource="0"
+            file="Source/MasterComponent.cpp"/>
+      <FILE id="jAEYBj" name="MasterComponent.h" compile="0" resource="0"
+            file="Source/MasterComponent.h"/>
+      <FILE id="D82DE5" name="ReverbComponent.cpp" compile="1" resource="0"
+            file="Source/ReverbComponent.cpp"/>
+      <FILE id="ErAcDn" name="ReverbComponent.h" compile="0" resource="0"
+            file="Source/ReverbComponent.h"/>
+      <FILE id="ZDtcPA" name="TrackThumbnailComponent.cpp" compile="1" resource="0"
+            file="Source/TrackThumbnailComponent.cpp"/>
+      <FILE id="yNAQxV" name="TrackThumbnailComponent.h" compile="0" resource="0"
+            file="Source/TrackThumbnailComponent.h"/>
       <FILE id="vFuzGW" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
       <FILE id="VGQGzG" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
       <FILE id="W9jyfn" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
-      <FILE id="rMc8Od" name="ControlComponent.cpp" compile="1" resource="0"
-            file="Source/ControlComponent.cpp"/>
-      <FILE id="aB62M1" name="ControlComponent.h" compile="0" resource="0"
-            file="Source/ControlComponent.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
