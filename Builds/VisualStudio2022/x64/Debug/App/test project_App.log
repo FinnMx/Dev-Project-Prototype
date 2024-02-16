@@ -1,0 +1,25 @@
+﻿  Main.cpp
+  MainComponent.cpp
+  ControlComponent.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+K:\dev\NEW\Dev-Project-Prototype\Source\ControlComponent.cpp(50,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\ControlComponent.cpp(55,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\ControlComponent.cpp(53,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\ControlComponent.cpp(60,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\ControlComponent.cpp(58,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\Main.cpp(25,42): warning C4100: 'commandLine': unreferenced formal parameter
+K:\dev\NEW\Dev-Project-Prototype\Source\Main.cpp(47,54): warning C4100: 'commandLine': unreferenced formal parameter
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(59,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(64,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(63,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(62,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(61,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(69,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(68,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(67,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+K:\dev\NEW\Dev-Project-Prototype\Source\MainComponent.cpp(66,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  include_juce_core.cpp
+  include_juce_gui_basics.cpp
+  test project_App.vcxproj -> K:\dev\NEW\Dev-Project-Prototype\Builds\VisualStudio2022\x64\Debug\App\test project.exe
